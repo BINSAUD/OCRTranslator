@@ -1,1 +1,1 @@
-# Translate
+# Shortcut for ScreenShot (Alt + Caps)
